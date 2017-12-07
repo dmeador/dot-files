@@ -1,0 +1,10 @@
+{
+	"update_check": false,
+	"font_size": 9,
+	"font_face": "Source Code Pro",
+	// Makes tabs with modified files more visible
+	"highlight_modified_tabs": true,
+	"detect_indentation": true,
+	"translate_tabs_to_spaces": false,
+
+}
